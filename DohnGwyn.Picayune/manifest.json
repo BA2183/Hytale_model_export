@@ -1,0 +1,20 @@
+{
+  "Group": "DohnGwyn",
+  "Name": "Picayune",
+  "Version": "1.0.0",
+  "Description": "Picayune From Picayune Dreams",
+  "Authors": [
+    {
+      "Name": "Duan Nguyen",
+      "Email": "duannguyen1801@gmail.com",
+      "Url": "https://github.com/BA2183"
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
